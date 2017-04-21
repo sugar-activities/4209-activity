@@ -1,0 +1,8 @@
+[Activity]
+name = Hop-A-Round
+bundle_id = org.laptop.HopaRound
+class = hoparound.HopaRoundActivity
+icon = hoparound-icon
+activity_version = 2
+host_version = 1
+show_launcher = yes
